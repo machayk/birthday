@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+    font-family: 'Protest Riot', sans-serif;
+    font-size: 20 rem;
+    
+}
+/* to set the width of the image according to the device */
+.index-image{
+    max-width: 100%;
+    height: auto;
+}
+
+.second-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 3px;
+    
+    
+}
+.child{
+    background-image: url("heart.avif");
+   height:100%;
+   width: 100%;
+   /* background-repeat: no-repeat; */
+   text-align: center;
+   font-size: 2rem;
+   
+}
+
+
+
+
+
